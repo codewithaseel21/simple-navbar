@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: rgb(2, 14, 82);
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.navbar li {
+    margin-left: 20px;
+}
+.navbar a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+}
+.navbar a:hover {
+    background-color: rgb(2, 14, 82);
+    color: #ffffff;
+}
+nav{
+    background-color: blue;
+    /* color: aliceblue; */
+}
