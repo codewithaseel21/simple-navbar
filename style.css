@@ -1,13 +1,13 @@
 h1{
     text-align: center;
     text-decoration: none;
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     color: rgb(2, 14, 82);
 }
 
 .navbar {
     display: flex;
-    justify-content: flex-en
+    justify-content: flex-end;
     list-style-type: none;
     padding: 0;
     margin: 0;
